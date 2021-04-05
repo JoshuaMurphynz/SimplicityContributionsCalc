@@ -3,3 +3,5 @@ Easily and Simply calculate if you have contributed enough to your Simplificity 
 
 
 Simply put your simplicity_transactions_report file in the same folder on your computer as this program and run. You will see in your terminal if you have contributed enough this year. If you have not you will be told how much you need to contribute to qualify for the full amount.
+
+This program does not send your data online anywhere at all.
